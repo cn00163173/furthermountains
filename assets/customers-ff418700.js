@@ -1,0 +1,1 @@
+import{s as r,t as s}from"./customers-type-2dfa0339.js";const u=[{value:1,text:"已关联"},{value:2,text:"考察中"}];function n(e){for(const t of r)if(t.value==e)return t.text;return""}function a(e){for(const t of s)if(t.value==e)return t.text;return""}function f(e){for(const t of u)if(t.value==e)return t.text;return""}export{n as a,f as b,a as g};
