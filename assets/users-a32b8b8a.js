@@ -1,1 +1,0 @@
-import{t as r}from"./users-type-e71669f5.js";const n=[{value:1,text:"激活"},{value:2,text:"冻结"}];function s(t){for(const e of r)if(e.value==t)return e.text;return""}function o(t){for(const e of n)if(e.value===t)return e.text;return""}function a(t){return t===1?"success":t===2?"info":"danger"}export{o as a,a as b,s as g};
