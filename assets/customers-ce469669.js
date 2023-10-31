@@ -1,1 +1,0 @@
-const s=[{id:"1",name:"华润怡宝饮料（中国）有限公司",type:2,source:1,status:1,description:"--"},{id:"2",name:"可口可乐饮料（上海）有限公司",type:2,source:1,status:1,description:"--"},{id:"3",name:"农夫山泉股份有限公司",type:1,source:2,status:2,description:"--"},{id:"4",name:"康师傅控股有限公司",type:1,source:2,status:2,description:"--"},{id:"5",name:"三得利株式会社",type:1,source:2,status:2,description:"--"}];export{s as c};
