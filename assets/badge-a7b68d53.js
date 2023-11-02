@@ -1,1 +1,0 @@
-import{f as a,o as s,c as o,t as n,y as _,_ as c}from"./index-c8543779.js";const p=a({__name:"badge",props:{color:{type:String,default:"default"},text:{type:String,default:""}},setup(t){const e=t;return(r,l)=>(s(),o("span",{class:_(["badge",e.color])},n(e.text),3))}});const i=c(p,[["__scopeId","data-v-80a2475b"]]);export{i as b};
